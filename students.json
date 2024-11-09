@@ -1,0 +1,567 @@
+{
+    "36": {
+      "Class": "B. Tech CE",
+      "Roll_No": "36",
+      "Student_Name": "RAVI PATEL",
+      "Subjects": "MAD"
+    },
+    "48": {
+      "Class": "B. Tech CE",
+      "Roll_No": "48",
+      "Student_Name": "VEER JAVADIA",
+      "Subjects": "MAD"
+    },
+    "61": {
+      "Class": "B. Tech CE",
+      "Roll_No": "61",
+      "Student_Name": "ANINDYA ZARBADE",
+      "Subjects": "MAD"
+    },
+    "62": {
+      "Class": "B. Tech CE",
+      "Roll_No": "62",
+      "Student_Name": "ATHARV BHEDA",
+      "Subjects": "MAD"
+    },
+    "63": {
+      "Class": "B. Tech CE",
+      "Roll_No": "63",
+      "Student_Name": "CHARLES DSOUZA",
+      "Subjects": "MAD"
+    },
+    "64": {
+      "Class": "B. Tech CE",
+      "Roll_No": "64",
+      "Student_Name": "JEET DULAL DEBNATH",
+      "Subjects": "MAD"
+    },
+    "65": {
+      "Class": "B. Tech CE",
+      "Roll_No": "65",
+      "Student_Name": "SAKSHI GUPTA",
+      "Subjects": "MAD"
+    },
+    "66": {
+      "Class": "B. Tech CE",
+      "Roll_No": "66",
+      "Student_Name": "GAGANCHANDRA REDDY",
+      "Subjects": "MAD"
+    },
+    "67": {
+      "Class": "B. Tech CE",
+      "Roll_No": "67",
+      "Student_Name": "TANUJ KAYASTH",
+      "Subjects": "MAD"
+    },
+    "68": {
+      "Class": "B. Tech CE",
+      "Roll_No": "68",
+      "Student_Name": "MALHAR RANE",
+      "Subjects": "MAD"
+    },
+    "69": {
+      "Class": "B. Tech CE",
+      "Roll_No": "69",
+      "Student_Name": "KUSUM PANAMGIPALLI",
+      "Subjects": "MAD"
+    },
+    "70": {
+      "Class": "B. Tech CE",
+      "Roll_No": "70",
+      "Student_Name": "SUMUKH GOUR",
+      "Subjects": "MAD"
+    },
+    "71": {
+      "Class": "B. Tech CE",
+      "Roll_No": "71",
+      "Student_Name": "PARTH K CHIKODI",
+      "Subjects": "OR"
+    },
+    "72": {
+      "Class": "B. Tech CE",
+      "Roll_No": "72",
+      "Student_Name": "SIDDESH LOHKARE",
+      "Subjects": "MAD"
+    },
+    "75": {
+      "Class": "B. Tech CE",
+      "Roll_No": "75",
+      "Student_Name": "DEEPAK JAIN",
+      "Subjects": "MAD"
+    },
+    "76": {
+      "Class": "B. Tech CE",
+      "Roll_No": "76",
+      "Student_Name": "AUM PRADHAN",
+      "Subjects": "OR"
+    },
+    "77": {
+      "Class": "B. Tech CE",
+      "Roll_No": "77",
+      "Student_Name": "AKSHITA SHARMA",
+      "Subjects": "MAD"
+    },
+    "78": {
+      "Class": "B. Tech CE",
+      "Roll_No": "78",
+      "Student_Name": "ARCHIT MAHAJAN",
+      "Subjects": "MAD"
+    },
+    "79": {
+      "Class": "B. Tech CE",
+      "Roll_No": "79",
+      "Student_Name": "SNEHA SHAH",
+      "Subjects": "MAD"
+    },
+    "81": {
+      "Class": "B. Tech CE",
+      "Roll_No": "81",
+      "Student_Name": "NIPUN PATIL",
+      "Subjects": "OR"
+    },
+    "82": {
+      "Class": "B. Tech CE",
+      "Roll_No": "82",
+      "Student_Name": "MAHEK MUSHRIF",
+      "Subjects": "MAD"
+    },
+    "83": {
+      "Class": "B. Tech CE",
+      "Roll_No": "83",
+      "Student_Name": "SUNNY BAGAL",
+      "Subjects": "MAD"
+    },
+    "84": {
+      "Class": "B. Tech CE",
+      "Roll_No": "84",
+      "Student_Name": "TARONISH DAVAR",
+      "Subjects": "MAD"
+    },
+    "85": {
+      "Class": "B. Tech CE",
+      "Roll_No": "85",
+      "Student_Name": "YASHASHRI RAHUL JOSHI",
+      "Subjects": "MAD"
+    },
+    "86": {
+      "Class": "B. Tech CE",
+      "Roll_No": "86",
+      "Student_Name": "MANASVI SANTOSH NAIR",
+      "Subjects": "MAD"
+    },
+    "87": {
+      "Class": "B. Tech CE",
+      "Roll_No": "87",
+      "Student_Name": "SHREYA BHAGWAT",
+      "Subjects": "MAD"
+    },
+    "88": {
+      "Class": "B. Tech CE",
+      "Roll_No": "88",
+      "Student_Name": "AFRA KHAN",
+      "Subjects": "MAD"
+    },
+    "91": {
+      "Class": "B. Tech CE",
+      "Roll_No": "91",
+      "Student_Name": "APOORVA SHINDE",
+      "Subjects": "MAD"
+    },
+    "92": {
+      "Class": "B. Tech CE",
+      "Roll_No": "92",
+      "Student_Name": "OM PAREKH",
+      "Subjects": "MAD"
+    },
+    "93": {
+      "Class": "B. Tech CE",
+      "Roll_No": "93",
+      "Student_Name": "ANTARIKSH RAJKONWAR",
+      "Subjects": "MAD"
+    },
+    "95": {
+      "Class": "B. Tech CE",
+      "Roll_No": "95",
+      "Student_Name": "HIMANSHU ROTEY",
+      "Subjects": "MAD"
+    },
+    "96": {
+      "Class": "B. Tech CE",
+      "Roll_No": "96",
+      "Student_Name": "MAYANK KUMAR",
+      "Subjects": "MAD"
+    },
+    "98": {
+      "Class": "B. Tech CE",
+      "Roll_No": "98",
+      "Student_Name": "SHRUTEE SALPE",
+      "Subjects": "MAD"
+    },
+    "99": {
+      "Class": "B. Tech CE",
+      "Roll_No": "99",
+      "Student_Name": "AARUSHI JAIN",
+      "Subjects": "MAD"
+    },
+    "100": {
+      "Class": "B. Tech CE",
+      "Roll_No": "100",
+      "Student_Name": "NISHANT CHANCHAD",
+      "Subjects": "MAD"
+    },
+    "101": {
+      "Class": "B. Tech CE",
+      "Roll_No": "101",
+      "Student_Name": "SARANSH SAHAY",
+      "Subjects": "OR"
+    },
+    "103": {
+      "Class": "B. Tech CE",
+      "Roll_No": "103",
+      "Student_Name": "JAYESH GAWDE",
+      "Subjects": "MAD"
+    },
+    "104": {
+      "Class": "B. Tech CE",
+      "Roll_No": "104",
+      "Student_Name": "VANSH DOSHI",
+      "Subjects": "MAD"
+    },
+    "107": {
+      "Class": "B. Tech CE",
+      "Roll_No": "107",
+      "Student_Name": "ADARSH PANDEY",
+      "Subjects": "MAD"
+    },
+    "108": {
+      "Class": "B. Tech CE",
+      "Roll_No": "108",
+      "Student_Name": "JEET JAYESH JAIN",
+      "Subjects": "MAD"
+    },
+    "109": {
+      "Class": "B. Tech CE",
+      "Roll_No": "109",
+      "Student_Name": "RISHIKA SINGH",
+      "Subjects": "MAD"
+    },
+    "110": {
+      "Class": "B. Tech CE",
+      "Roll_No": "110",
+      "Student_Name": "MOHAMMED RAYYAN ANSARI",
+      "Subjects": "MAD"
+    },
+    "112": {
+      "Class": "B. Tech CE",
+      "Roll_No": "112",
+      "Student_Name": "HARSHAD MORE",
+      "Subjects": "MAD"
+    },
+    "113": {
+      "Class": "B. Tech CE",
+      "Roll_No": "113",
+      "Student_Name": "AAYUSH SINGH",
+      "Subjects": "MAD"
+    },
+    "115": {
+      "Class": "B. Tech CE",
+      "Roll_No": "115",
+      "Student_Name": "HIRAL NILESH GUNDECHA",
+      "Subjects": "MAD"
+    },
+    "117": {
+      "Class": "B. Tech CE",
+      "Roll_No": "117",
+      "Student_Name": "PARTH GUPTA",
+      "Subjects": "MAD"
+    },
+    "121": {
+      "Class": "B. Tech CE",
+      "Roll_No": "121",
+      "Student_Name": "ADITYA LADGE",
+      "Subjects": "MAD"
+    },
+    "122": {
+      "Class": "B. Tech CE",
+      "Roll_No": "122",
+      "Student_Name": "CHIRAAG CHAUDHARY",
+      "Subjects": "MAD"
+    },
+    "123": {
+      "Class": "B. Tech CE",
+      "Roll_No": "123",
+      "Student_Name": "ANSHU MEHTA",
+      "Subjects": "MAD"
+    },
+    "124": {
+      "Class": "B. Tech CE",
+      "Roll_No": "124",
+      "Student_Name": "KAVYA AGARWAL",
+      "Subjects": "MAD"
+    },
+    "125": {
+      "Class": "MBA Tech",
+      "Roll_No": "125",
+      "Student_Name": "SARANG AGRAWAL",
+      "Subjects": "MAD"
+    },
+    "126": {
+      "Class": "B. Tech CE",
+      "Roll_No": "126",
+      "Student_Name": "VAISHNAVI AWASTHI",
+      "Subjects": "MAD"
+    },
+    "127": {
+      "Class": "B. Tech CE",
+      "Roll_No": "127",
+      "Student_Name": "MOHAMMED REHAN SHAFIQ",
+      "Subjects": "MAD"
+    },
+    "128": {
+      "Class": "B. Tech CE",
+      "Roll_No": "128",
+      "Student_Name": "RHEA AJAYKUMAR PATEL",
+      "Subjects": "MAD"
+    },
+    "130": {
+      "Class": "B. Tech CE",
+      "Roll_No": "130",
+      "Student_Name": "PRATHAM DESAI",
+      "Subjects": "MAD"
+    },
+    "131": {
+      "Class": "B. Tech CE",
+      "Roll_No": "131",
+      "Student_Name": "TANIYA HIMADRI SANYAL",
+      "Subjects": "MAD"
+    },
+    "133": {
+      "Class": "B. Tech CE",
+      "Roll_No": "133",
+      "Student_Name": "VIBHUTI GARACHH",
+      "Subjects": "MAD"
+    },
+    "138": {
+      "Class": "B. Tech CE",
+      "Roll_No": "138",
+      "Student_Name": "KRISH SURTI",
+      "Subjects": "MAD"
+    },
+    "154": {
+      "Class": "MBA Tech",
+      "Roll_No": "154",
+      "Student_Name": "RISHIKESH PATIL",
+      "Subjects": "OR"
+    },
+    "161": {
+      "Class": "MBA Tech",
+      "Roll_No": "161",
+      "Student_Name": "KSHITI ARVIND SHILKE",
+      "Subjects": "OR"
+    },
+    "162": {
+      "Class": "MBA Tech",
+      "Roll_No": "162",
+      "Student_Name": "ANSHUL DAWANGE",
+      "Subjects": "MAD"
+    },
+    "163": {
+      "Class": "MBA Tech",
+      "Roll_No": "163",
+      "Student_Name": "DEVANSHI SRIVASTAVA",
+      "Subjects": "OR"
+    },
+    "164": {
+      "Class": "MBA Tech",
+      "Roll_No": "164",
+      "Student_Name": "SAKSHI BHURE",
+      "Subjects": "MAD"
+    },
+    "165": {
+      "Class": "MBA Tech",
+      "Roll_No": "165",
+      "Student_Name": "ANADI SHARMA",
+      "Subjects": "MAD"
+    },
+    "166": {
+      "Class": "MBA Tech",
+      "Roll_No": "166",
+      "Student_Name": "KAVYA UPRETI",
+      "Subjects": "MAD",
+      "": " "
+    },
+    "167": {
+      "Class": "B. Tech CE",
+      "Roll_No": "167",
+      "Student_Name": "DIVYANSH GUPTA",
+      "Subjects": "MAD"
+    },
+    "169": {
+      "Class": "MBA Tech",
+      "Roll_No": "169",
+      "Student_Name": "EBHANAN SUNIL",
+      "Subjects": "OR"
+    },
+    "170": {
+      "Class": "MBA Tech",
+      "Roll_No": "170",
+      "Student_Name": "VRISHANK SACHIN NALAWDE",
+      "Subjects": "OR"
+    },
+    "171": {
+      "Class": "B. Tech CE",
+      "Roll_No": "171",
+      "Student_Name": "DEVANSH GUPTA",
+      "Subjects": "MAD"
+    },
+    "172": {
+      "Class": "MBA Tech",
+      "Roll_No": "172",
+      "Student_Name": "SOURAV TIWARI",
+      "Subjects": "OR"
+    },
+    "173": {
+      "Class": "MBA Tech",
+      "Roll_No": "173",
+      "Student_Name": "ARCHIT WADEKAR",
+      "Subjects": "MAD"
+    },
+    "174": {
+      "Class": "MBA Tech",
+      "Roll_No": "174",
+      "Student_Name": "UTKARSH AGARWAL",
+      "Subjects": "OR"
+    },
+    "175": {
+      "Class": "MBA Tech",
+      "Roll_No": "175",
+      "Student_Name": "NACHIKET PALEKAR",
+      "Subjects": "MAD"
+    },
+    "176": {
+      "Class": "MBA Tech",
+      "Roll_No": "176",
+      "Student_Name": "YASH RAVINDRA PATIL",
+      "Subjects": "MAD"
+    },
+    "177": {
+      "Class": "MBA Tech",
+      "Roll_No": "177",
+      "Student_Name": "SRUSHTI MISHRIKOTKAR",
+      "Subjects": "MAD"
+    },
+    "179": {
+      "Class": "MBA Tech",
+      "Roll_No": "179",
+      "Student_Name": "KARAN DWARI",
+      "Subjects": "MAD"
+    },
+    "180": {
+      "Class": "MBA Tech",
+      "Roll_No": "180",
+      "Student_Name": "SOHAM MARATHE",
+      "Subjects": "MAD"
+    },
+    "181": {
+      "Class": "MBA Tech",
+      "Roll_No": "181",
+      "Student_Name": "ARYAN GAIKWAD",
+      "Subjects": "MAD"
+    },
+    "182": {
+      "Class": "MBA Tech",
+      "Roll_No": "182",
+      "Student_Name": "DIVYANSH CHANDRA",
+      "Subjects": "OR"
+    },
+    "183": {
+      "Class": "MBA Tech",
+      "Roll_No": "183",
+      "Student_Name": "BHARGAV BHATT",
+      "Subjects": "MAD"
+    },
+    "184": {
+      "Class": "MBA Tech",
+      "Roll_No": "184",
+      "Student_Name": "AKSHAD GAWDE",
+      "Subjects": "MAD"
+    },
+    "185": {
+      "Class": "MBA Tech",
+      "Roll_No": "185",
+      "Student_Name": "ARYAN GUPTE",
+      "Subjects": "MAD"
+    },
+    "186": {
+      "Class": "MBA Tech",
+      "Roll_No": "186",
+      "Student_Name": "ADITYA SINGH CHAUHAN",
+      "Subjects": "MAD"
+    },
+    "187": {
+      "Class": "MBA Tech",
+      "Roll_No": "187",
+      "Student_Name": "PRAPTI NARENDRA KHARADE",
+      "Subjects": "MAD"
+    },
+    "188": {
+      "Class": "MBA Tech",
+      "Roll_No": "188",
+      "Student_Name": "SHARWARI YENDE",
+      "Subjects": "MAD"
+    },
+    "190": {
+      "Class": "MBA Tech",
+      "Roll_No": "190",
+      "Student_Name": "ISHA SUHAS VEER",
+      "Subjects": "OR"
+    },
+    "192": {
+      "Class": "MBA Tech",
+      "Roll_No": "192",
+      "Student_Name": "RICHARD DSOUZA",
+      "Subjects": "OR"
+    },
+    "193": {
+      "Class": "MBA Tech",
+      "Roll_No": "193",
+      "Student_Name": "MRUNMAYI JADHAV",
+      "Subjects": "MAD"
+    },
+    "194": {
+      "Class": "MBA Tech",
+      "Roll_No": "194",
+      "Student_Name": "ASHOK THANIYATH",
+      "Subjects": "OR"
+    },
+    "196": {
+      "Class": "MBA Tech",
+      "Roll_No": "196",
+      "Student_Name": "SHRAVANI DHORE",
+      "Subjects": "OR"
+    },
+    "197": {
+      "Class": "MBA Tech",
+      "Roll_No": "197",
+      "Student_Name": "PAKHI SHARMA",
+      "Subjects": "MAD"
+    },
+    "199": {
+      "Class": "MBA Tech",
+      "Roll_No": "199",
+      "Student_Name": "NEIL ADVANI",
+      "Subjects": "MAD"
+    },
+    "202": {
+      "Class": "MBA Tech",
+      "Roll_No": "202",
+      "Student_Name": "ANMOL ANIL CHAUHAN",
+      "Subjects": "MAD"
+    },
+    "204": {
+      "Class": "MBA Tech",
+      "Roll_No": "204",
+      "Student_Name": "RAJVIR SINGH BHATTI",
+      "Subjects": "MAD"
+    }
+  }
