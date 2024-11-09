@@ -1,0 +1,124 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.attendanceapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:4:5-79
+11-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:4:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:5:5-80
+12-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:5:22-78
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\Sneha\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.attendanceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\Sneha\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\Sneha\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.attendanceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\Sneha\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\Sneha\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:6:5-38:19
+21        android:allowBackup="true"
+21-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:7:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\Sneha\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:8:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:9:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:10:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:11:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:12:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:13:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+32-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:14:9-65
+33        <activity
+33-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:16:9-23:20
+34            android:name="com.example.attendanceapp.SplashActivity"
+34-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:17:13-43
+35            android:exported="true" >
+35-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:18:13-36
+36            <intent-filter>
+36-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:19:13-22:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:20:17-69
+37-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:20:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:21:17-77
+39-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:21:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:24:9-26:40
+43            android:name="com.example.attendanceapp.StudentActivity"
+43-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:25:13-44
+44            android:exported="false" />
+44-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:26:13-37
+45        <activity
+45-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:27:9-29:25
+46            android:name="com.example.attendanceapp.LoginActivity"
+46-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:27:19-48
+47            android:exported="false" />
+47-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:28:13-37
+48        <activity
+48-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:30:9-37:20
+49            android:name="com.example.attendanceapp.MainActivity"
+49-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:31:13-41
+50            android:exported="true" >
+50-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:32:13-36
+51            <intent-filter>
+51-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:19:13-22:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:20:17-69
+52-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:20:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:21:17-77
+54-->C:\Users\Sneha\AndroidStudioProjects\attendance_app\attendanceapp\app\src\main\AndroidManifest.xml:21:27-74
+55            </intent-filter>
+56        </activity>
+57
+58        <provider
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sneha\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+59            android:name="androidx.startup.InitializationProvider"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sneha\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+60            android:authorities="com.example.attendanceapp.androidx-startup"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sneha\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+61            android:exported="false" >
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sneha\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+62            <meta-data
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sneha\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sneha\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+64                android:value="androidx.startup" />
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sneha\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+65            <meta-data
+65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Sneha\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Sneha\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+67                android:value="androidx.startup" />
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Sneha\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+68        </provider>
+69    </application>
+70
+71</manifest>
